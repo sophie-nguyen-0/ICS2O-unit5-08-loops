@@ -31,8 +31,13 @@ function myButtonClicked() {
     }
     document.getElementById("answer").innerHTML =
       num1 + " ÷ " + num2 + " = " + count + " R " + remainder
-  } else {
+  } 
+  else if(num1 < num2){
     document.getElementById("answer").innerHTML =
-      "please enter a POSITIVE integer that is NOT 0 and the first number must be larger"
+      "The first number must be larger"
+  }
+  else {
+    document.getElementById("answer").innerHTML =
+      "please enter a POSITIVE integer that is NOT 0"
   }
 }
