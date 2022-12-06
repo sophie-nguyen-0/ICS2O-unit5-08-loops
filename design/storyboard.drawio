@@ -13,7 +13,7 @@
                 <mxCell id="4" value="&lt;font color=&quot;#ff3399&quot;&gt;Actor&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#0000FF;" vertex="1" parent="1">
                     <mxGeometry x="400" y="250" width="70" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="&lt;h1&gt;dividing... It's really just repetative subtraction&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#FF3399;" vertex="1" parent="1">
+                <mxCell id="5" value="&lt;h1&gt;dividing... It's really just repetitive subtraction&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#FF3399;" vertex="1" parent="1">
                     <mxGeometry x="80" y="230" width="240" height="120" as="geometry"/>
                 </mxCell>
                 <mxCell id="6" value="enter a number:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3399;" vertex="1" parent="1">
