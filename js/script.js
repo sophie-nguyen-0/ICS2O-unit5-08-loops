@@ -32,4 +32,8 @@ function myButtonClicked() {
     document.getElementById("answer").innerHTML =
       num1 + " ÷ " + num2 + " = " + count + " R " + remainder
   }
+  else {
+    document.getElementById("answer").innerHTML =
+      "please enter a POSITIVE intiger that is NOT 0"
+  }
 }
