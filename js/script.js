@@ -23,7 +23,7 @@ function myButtonClicked() {
   let remainder = num1
   let count = 0
 
-  if (num1 > 0 || num2 > 0) {
+  if ((num1 > 0 || num2 > 0) && (num > num2)) {
     while (remainder > num2 || remainder == num2) {
       remainder -= num2
 
