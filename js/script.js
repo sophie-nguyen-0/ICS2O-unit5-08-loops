@@ -17,8 +17,8 @@ if (navigator.serviceWorker) {
  * this function
  */
 function myButtonClicked() {
-  const num1 = parseInt(document.getElementById('num1').value)
-  const num2 = parseInt(document.getElementById('num2').value)
+  const num1 = parseInt(document.getElementById("num1").value)
+  const num2 = parseInt(document.getElementById("num2").value)
 
   let remainder = num1
   let count = 0
