@@ -17,5 +17,17 @@ if (navigator.serviceWorker) {
  * this function
  */
 function myButtonClicked() {
-  document.getElementById("hello-world").innerHTML = "<p>Hello, World!</p>"
+  const num1 = parseInt(document.getElementById('num1').value)
+  const num2 = parseInt(document.getElementById('num2').value)
+
+  let remainder = num1
+  let count = 0
+
+  if (num1 > 0 || num2 > 0) {
+    while (remainder > num2) {
+      remainder -= num2
+
+      count++
+    }
+  }
 }
