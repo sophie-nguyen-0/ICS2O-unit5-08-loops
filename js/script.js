@@ -29,6 +29,7 @@ function myButtonClicked() {
 
       count++
     }
-    document.getElementById('answer').innerHTML = num1 + " ÷ " + num2 + " = " + count + " R " + remainder
+    document.getElementById("answer").innerHTML =
+      num1 + " ÷ " + num2 + " = " + count + " R " + remainder
   }
 }
