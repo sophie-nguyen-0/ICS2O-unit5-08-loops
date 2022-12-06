@@ -33,6 +33,6 @@ function myButtonClicked() {
       num1 + " ÷ " + num2 + " = " + count + " R " + remainder
   } else {
     document.getElementById("answer").innerHTML =
-      "please enter a POSITIVE integer that is NOT 0"
+      "please enter a POSITIVE integer that is NOT 0 and the first number must be larger"
   }
 }
